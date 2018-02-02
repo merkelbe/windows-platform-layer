@@ -1,7 +1,7 @@
 ﻿  window.cpp
 c:\users\bluth\desktop\temporary\windows-platform-layer\project1\window.cpp(24): warning C4091: 'static ': ignored on left of 'readFileResult' when no variable is declared
 c:\users\bluth\desktop\temporary\windows-platform-layer\project1\window.cpp(31): warning C4091: 'static ': ignored on left of 'screenBuffer' when no variable is declared
-c:\users\bluth\desktop\temporary\windows-platform-layer\project1\window.cpp(455): warning C4018: '>': signed/unsigned mismatch
-c:\users\bluth\desktop\temporary\windows-platform-layer\project1\window.cpp(469): warning C4018: '>': signed/unsigned mismatch
+c:\users\bluth\desktop\temporary\windows-platform-layer\project1\window.cpp(458): warning C4018: '>': signed/unsigned mismatch
+c:\users\bluth\desktop\temporary\windows-platform-layer\project1\window.cpp(472): warning C4018: '>': signed/unsigned mismatch
   Project1.vcxproj -> C:\Users\Bluth\Desktop\Temporary\windows-platform-layer\Debug\Project1.exe
   Project1.vcxproj -> C:\Users\Bluth\Desktop\Temporary\windows-platform-layer\Debug\Project1.pdb (Partial PDB)
