@@ -399,7 +399,7 @@ int WINAPI WinMain(HINSTANCE handleInstance, HINSTANCE previousHandleInstance, L
 	uint32 *bitmapPixels = loadBitmap("C:/Users/Bluth/Desktop/Temporary/windows-platform-layer/derpTest.bmp");
 	bitmapPixels = loadBitmap("C:/Users/Bluth/Desktop/Temporary/windows-platform-layer/helloThereSmall.bmp");*/
 
-	bitmap bitmap = loadBitmap("C:/Users/Bluth/Desktop/Temporary/windows-platform-layer/helloThere.bmp");
+	bitmap bitmap = loadBitmap("../helloThere.bmp");
 
 
 	bool running = true;
